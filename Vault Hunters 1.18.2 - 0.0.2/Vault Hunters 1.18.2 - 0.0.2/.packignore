@@ -1,0 +1,15 @@
+.minecraft/.curseclient
+.minecraft/XaeroWaypoints
+.minecraft/XaeroWorldMap
+.minecraft/backups
+.minecraft/coremods
+.minecraft/debug
+.minecraft/logs
+.minecraft/saves
+.minecraft/schematics
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks
+.minecraft/texturepacks
+.minecraft/usercache.json
+.minecraft/usernamecache.json
