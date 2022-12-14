@@ -1,0 +1,63 @@
+{
+  "configs": [
+    {
+      "types": {
+        "message": [
+          {
+            "conditions": [],
+            "outcomes": [
+              {
+                "title": "$user says:",
+                "subtitle": "$message",
+                "titleColor": "$color",
+                "type": "toast"
+              },
+              {
+                "message": "Twitch -> $user Says: $message",
+                "type": "chat",
+                "displayName": "null"
+              }
+            ]
+          }
+        ],
+        "action": [
+          {
+            "conditions": [],
+            "outcomes": [
+              {
+                "toastType": 2,
+                "title": "$user",
+                "subtitle": "$message",
+                "type": "toast"
+              }
+            ]
+          }
+        ]
+      },
+      "for": "twitch"
+    },
+    {
+      "types": {
+        "textMessageEvent": [
+          {
+            "conditions": [],
+            "outcomes": [
+              {
+                "title": "$authorDetails_displayName says:",
+                "subtitle": "$displayMessage",
+                "type": "toast"
+              },
+              {
+                "message": "Youtube -> $user Says: $message",
+                "type": "chat"
+              }
+            ]
+          }
+        ]
+      },
+      "for": "youtube"
+    }
+  ],
+  "init": [],
+  "type": "chat"
+}

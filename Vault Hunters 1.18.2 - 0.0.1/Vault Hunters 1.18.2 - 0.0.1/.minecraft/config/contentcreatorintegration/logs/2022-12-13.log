@@ -1,0 +1,17 @@
+Initialising. Log types: cci, debug, event, socket_status, socket_event
+Initialising. Log types: cci, debug, event, socket_status, socket_event
+Getting channel ID from user ID: MaiksMC
+Connecting to TwitchChat - 1
+Connected to TwitchChat - 1
+Event TC: :tmi.twitch.tv 001 justinfan97593 :Welcome, GLHF!
+Event TC: :tmi.twitch.tv 002 justinfan97593 :Your host is tmi.twitch.tv
+Event TC: :tmi.twitch.tv 003 justinfan97593 :This server is rather new
+Event TC: :tmi.twitch.tv 004 justinfan97593 :-
+Event TC: :tmi.twitch.tv 375 justinfan97593 :-
+Event TC: :tmi.twitch.tv 372 justinfan97593 :You are in a maze of twisty passages, all alike.
+Event TC: :tmi.twitch.tv 376 justinfan97593 :>
+Event TC: :tmi.twitch.tv CAP * ACK :twitch.tv/tags twitch.tv/commands
+Event TC: :justinfan97593!justinfan97593@justinfan97593.tmi.twitch.tv JOIN #maiksmc
+Event TC: :justinfan97593.tmi.twitch.tv 353 justinfan97593 = #maiksmc :justinfan97593
+Event TC: :justinfan97593.tmi.twitch.tv 366 justinfan97593 #maiksmc :End of /NAMES list
+Event TC: @emote-only=0;followers-only=-1;r9k=0;room-id=617410645;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #maiksmc
